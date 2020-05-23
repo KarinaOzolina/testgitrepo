@@ -1,7 +1,5 @@
 Random text
-<<<<<<< HEAD
 Jei
-=======
 Some text
 Another text
->>>>>>> a61956bb97db7443d3e4c0af0e16ac8bf7701a27
+
